@@ -93,13 +93,17 @@ body{
 .textmargin{
     margin-top: 20px;
     margin-left: 50px;
+    font-family: 'Source Sans Pro' ,sans-serif;
+    font-size: 18px;
 }
 .link{
+    display: block;
     margin-left: 50px;
     text-decoration: none;
     font-family: 'Source Sans Pro' ,sans-serif;
     font-size: 18px;
     color:#42b4d6; 
+    width: fit-content;
 }
 .link:hover{
     text-decoration: underline;
